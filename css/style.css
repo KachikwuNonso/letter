@@ -1,0 +1,48 @@
+* {
+    /* background-color: maroon;
+    color: whitesmoke; */
+}
+
+#letter {
+    display: none;
+    width: 50%;
+    height: 700px;
+    border: 1px solid black;
+}
+
+#story {
+    display: none;
+    width: 50%;
+    height: 700px;
+    border: 1px solid black;
+}
+
+.clr {
+    clear: both;
+}
+
+.float-start {
+    margin-top: 200px;
+    margin-left: 5px;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    font-size: 17px;
+    margin-left: 5px;
+}
+
+.body {
+    margin-left: 5px;
+}
+
+.button-block .btn-lg {
+    font-size: 80px;
+}
+
+.button-block a {
+    display: block;
+}
