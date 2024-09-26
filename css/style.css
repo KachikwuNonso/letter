@@ -1,12 +1,13 @@
 * {
     /* background-color: maroon;
     color: whitesmoke; */
+    color: darkblue;
 }
 
 #letter {
     display: none;
     width: 50%;
-    height: 700px;
+    height: 1000px;
     border: 1px solid black;
 }
 

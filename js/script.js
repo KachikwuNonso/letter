@@ -12,6 +12,13 @@ $(document).ready(function () {
         const locationInput = $("input#location").val();
         const staInput = $("input#sta").val();
         const salutationInput = $("input#salutation").val();
+        const person1Input = $("input#person1").val();
+        const person2Input = $("input#person2").val();
+        const animalInput = $("input#animal").val();
+        const exclamationInput = $("input#exclamation").val();
+        const verbInput = $("input#verb").val();
+        const nounInput = $("input#noun").val();
+
         const color = $("#color").val();
 
         $(".adress1").html("<b>" + adress1Input + "</b>");
@@ -24,6 +31,12 @@ $(document).ready(function () {
         $(".location").text(locationInput);
         $(".sta").text(staInput);
         $(".salutation").text(salutationInput);
+        $(".person1").text(person1Input);
+        $(".person2").text(person2Input);
+        $(".animal").text(animalInput);
+        $(".exclamation").text(exclamationInput);
+        $(".verb").text(verbInput);
+        $(".noun").text(nounInput)
 
         $("#letter").show();
         $("#story").show();
