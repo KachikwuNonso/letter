@@ -16,10 +16,10 @@ Since this is an example project, I'd encourage you to clone and rename this pro
 
 You might find a few bugs because I haven't exactly finished the project. If you found an issue or would like to improve this project, you can.
 
-## Account
+## Contact Information
 
-kachikwuchukwunonso726@gmail.com
-kachikwuchukwunonso@gmail.com
+- Gmail: kachikwuchukwunonso726@gmail.com OR kachikwuchukwunonso@gmail.com
+- Tel: 08037868197
 
 ## Known issues
 
